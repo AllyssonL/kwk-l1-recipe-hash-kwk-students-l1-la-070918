@@ -30,5 +30,5 @@
 
 def ingredients_and_amounts (perfect_10_recipe)
   puts perfect_10_recipe.each do |perfect_10_recipe|
-end 
+
 end
