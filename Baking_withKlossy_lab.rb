@@ -11,6 +11,6 @@
 
 recipe_ingredients["key"] = "value"
 
-# def choclate_chips
-#   puts "3/4 cup"
-# end
+def choclate_chips
+  puts "3/4 cup"
+end
