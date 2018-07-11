@@ -1,3 +1,3 @@
- recipe_ingredients = {
+ recipe_ingredients = {"almond flour, "
   
 end
