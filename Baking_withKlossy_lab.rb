@@ -22,10 +22,10 @@
   
 #
 
-def amount_of_chocolate_chips(perfect_10_recipe)
-  return perfect_10_recipe["min dark chocolate chips"]
-end
-puts amount_of_chocolate_chips(perfect_10_recipe)
+# def amount_of_chocolate_chips(perfect_10_recipe)
+#   return perfect_10_recipe["min dark chocolate chips"]
+# end
+# puts amount_of_chocolate_chips(perfect_10_recipe)
 
 
 def ingredients_and_amounts (perfect_10_recipe)
