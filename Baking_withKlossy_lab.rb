@@ -28,5 +28,7 @@ end
 puts amount_of_chocolate_chips(perfect_10_recipe)
 
 
-puts 
+def ingredients_and_amounts (perfect_10_recipe)
+  puts perfect_10_recipe
+end 
   
