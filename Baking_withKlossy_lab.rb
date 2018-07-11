@@ -1,4 +1,4 @@
- perfect_10_recipe = {"almond flour" => "2 cups",
+ def perfect_10_recipe = {"almond flour" => "2 cups",
  "gluten freewhole oats" => "1 cup", 
  "kosher salt" => "1/2 teaspoon" ,
  "baking powder" => "1/2 teaspoon" ,
@@ -8,6 +8,7 @@
  "min dark chocolate chips" => "3/4 cup",
  "olive oil"=> "1/2 cup",
  "agave" => "1/4 cup"}
+ end
 
 # recipe_ingredients["key"] = "value"
 
@@ -16,11 +17,11 @@
 # end
 # choclate_chips
 
-def recipe_ingredients(perfect_10_recipe)
-  perfect_10_recipe
+# def recipe_ingredients(perfect_10_recipe)
+#   perfect_10_recipe
   
-end
+# end
 
-def amount_of_chocolate_chips(perfect_10_recipe)
-  
+# def amount_of_chocolate_chips(perfect_10_recipe)
+#   perfect_10_recipe[]
   
