@@ -23,6 +23,6 @@
 #
 
 def amount_of_chocolate_chips(perfect_10_recipe)
-  return perfect_10_recipe[]
+  return perfect_10_recipe["min dark chocolate chips"]
 end
   
