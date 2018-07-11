@@ -8,7 +8,7 @@
  "min dark chocolate chips" => "3/4 cup",
  "olive oil"=> "1/2 cup",
  "agave" => "1/4 cup"}
-
+end
 recipe_ingredients["key"] = "value"
 
 def choclate_chips
