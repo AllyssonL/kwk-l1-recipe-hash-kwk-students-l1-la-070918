@@ -1,1 +1,3 @@
-def 
+def recipe_ingredients
+  
+end
